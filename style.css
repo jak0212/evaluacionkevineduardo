@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+    color: #d43b3b;
+    background-color: #5eff00;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: underline;
+
+  }
+  
+
+img {
+    width: 300px;
+    height: 100px;
+    border-radius: 10px;
+    opacity: 0,5px;
+  }
+  p {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+  }
+  body {
+    background-color: aqua;
+  }
+  table{
+    
+  text-decoration: underline;
+
+  }
+
+  
+      
